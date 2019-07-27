@@ -1,0 +1,11 @@
+*.lnk
+desktop.ini
+*~
+\#*
+.vs/
+*.pdb
+*.exe
+*.obj
+build/
+*.sln
+*.html
